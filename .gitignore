@@ -1,1 +1,3 @@
 ./datas/DataSet_Emails.csv
+./models/pipeline_vect_model.pkl
+./.venv
